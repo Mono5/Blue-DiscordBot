@@ -504,7 +504,7 @@ def set_cog(cog, value):
 
 
 def load_cogs(bot):
-    defaults = ("alias", "audio", "customcom", "downloader", "economy",
+    defaults = ("alias", "audio", "customcom", "google", "economy",
                 "general", "image", "mod", "streams", "trivia", "social")
 
     try:
