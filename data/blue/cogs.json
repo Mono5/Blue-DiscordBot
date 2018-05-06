@@ -1,0 +1,15 @@
+{
+    "cogs.alias" : true,
+    "cogs.audio" : true,
+    "cogs.autorole" : false,
+    "cogs.customcom" : true,
+    "cogs.downloader" : false,
+    "cogs.economy" : true,
+    "cogs.general" : true,
+    "cogs.google" : true,
+    "cogs.image" : true,
+    "cogs.mod" : true,
+    "cogs.social" : true,
+    "cogs.streams" : true,
+    "cogs.trivia" : true
+}
